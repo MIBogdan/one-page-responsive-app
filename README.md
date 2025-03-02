@@ -44,3 +44,8 @@ One Page Responsive Website is a responsive, single-page website template built 
 [Portfolio Website](https://marius-bogdan.com/)
 
 Feel free to reach out for any questions or collaborations!
+
+## License
+
+This project is provided for testing and demonstration purposes only. All rights are reserved. No part of this project may be redistributed, reuploaded, or used in any manner (commercially or otherwise) without explicit written permission from the author.
+
