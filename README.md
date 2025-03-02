@@ -4,9 +4,6 @@
 ## Overview
 One Page Mini Proiect is a responsive, single-page website template built with HTML, CSS (leveraging Bootstrap for responsive design), and JavaScript. Designed with a clean and minimalistic aesthetic, this project offers smooth navigation, interactive animations, and a customizable layout.
 
-## Additional Info
-For more projects and detailed information, visit my [Portfolio Website](https://marius-bogdan.com/).
-
 ## Features
 - **Responsive Design:** Uses Bootstrap to ensure a seamless experience across devices.
 - **Smooth Scrolling & Sticky Navigation:** Provides a fluid, user-friendly navigation experience.
@@ -27,3 +24,12 @@ For more projects and detailed information, visit my [Portfolio Website](https:/
    git clone https://github.com/MIBogdan/one-page-responsive-app
 2. **Open** the `index.html` file in your browser
    *- or use a local development server (like VS Code Live Server) for a smoother development experience.*
+
+
+---
+
+## Author
+**Marius Bogdan**  
+[Portfolio Website](https://marius-bogdan.com/)
+
+Feel free to reach out for any questions or collaborations!
