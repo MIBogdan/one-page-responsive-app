@@ -1,7 +1,7 @@
 # One Page Responsive Website
 
 
-[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-HTML%20%7C%20CSS%20%7C%20JS-black?style=flat-square)](#)
+[![Tech Stack](https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-black?style=flat-square)](#)
 
 
 > A responsive one-page website with load animations and light/dark mode.
