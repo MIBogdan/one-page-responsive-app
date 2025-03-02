@@ -7,7 +7,7 @@
 > A responsive one-page website with load animations and light/dark mode.
 
 ## Overview
-One Page Responsive Website is a responsive, single-page website template built with HTML, CSS (leveraging Bootstrap for responsive design), and JavaScript. Designed with a clean and minimalistic aesthetic, this project offers smooth navigation, interactive animations, and a customizable layout.
+One Page Responsive Website is a single-page website template built with HTML, CSS (leveraging Bootstrap for responsive design), and JavaScript. Designed with a clean and minimalistic aesthetic, this project offers smooth navigation, interactive animations, and a customizable layout.
 
 ## Preview
 
@@ -26,7 +26,7 @@ One Page Responsive Website is a responsive, single-page website template built 
 
 
 ## Live Demo
-- **Explore the live version here:** [View Live Demo](https://marius-bogdan.com/projects/one-page-responsive-app/)
+**Explore the live version here:** [View Live Demo](https://marius-bogdan.com/projects/one-page-responsive-app/)
 
 ## Local Setup
 1. **Clone** the repository:
