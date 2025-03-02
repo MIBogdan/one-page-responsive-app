@@ -13,4 +13,4 @@ One Page Mini Proiect is a responsive, single-page website template built with H
 - **Testimonial Slider:** Features a responsive slider for testimonials, built with Swiper.
 - **Clean & Minimal Aesthetic:** A professional design that’s easy to customize and extend.
 
-![Project Preview](assets/preview.png)
+![Project Preview](preview.png)
