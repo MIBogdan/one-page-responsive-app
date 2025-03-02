@@ -16,9 +16,11 @@ One Page Mini Proiect is a responsive, single-page website template built with H
 ![Project Preview](preview.png)
 
 ## Live Demo
-[View Live Demo](https://example.com)
+[View Live Demo](https://marius-bogdan.com/projects/one-page-responsive-app/)
 
 ## Local Setup
 1. **Clone** the repository:
    ```bash
    git clone https://github.com/MIBogdan/one-page-responsive-app
+2. **Open** the `index.html` file in your browser
+   *- or use a local development server (like VS Code Live Server) for a smoother development experience.*
