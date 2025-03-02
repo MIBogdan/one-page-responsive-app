@@ -26,7 +26,7 @@ One Page Responsive Website is a responsive, single-page website template built 
 
 
 ## Live Demo
-- **Explore the live version here:** <a href="https://marius-bogdan.com/projects/one-page-responsive-app/" target="_blank" rel="noopener noreferrer">View Live Demo</a>
+- **Explore the live version here:** [View Live Demo](https://marius-bogdan.com/projects/one-page-responsive-app/)
 
 ## Local Setup
 1. **Clone** the repository:
