@@ -9,6 +9,12 @@
 ## Overview
 One Page Responsive Website is a responsive, single-page website template built with HTML, CSS (leveraging Bootstrap for responsive design), and JavaScript. Designed with a clean and minimalistic aesthetic, this project offers smooth navigation, interactive animations, and a customizable layout.
 
+## Preview
+
+<p align="center">
+  <img src="preview.png" alt="Project Preview" width="600">
+</p>
+
 ## Features
 - **Responsive Design:** Uses Bootstrap to ensure a seamless experience across devices.
 - **Smooth Scrolling & Sticky Navigation:** Provides a fluid, user-friendly navigation experience.
@@ -18,15 +24,9 @@ One Page Responsive Website is a responsive, single-page website template built 
 - **Testimonial Slider:** Features a responsive slider for testimonials, built with Swiper.
 - **Clean & Minimal Aesthetic:** A professional design that’s easy to customize and extend.
 
-## Preview
-
-<p align="center">
-  <img src="preview.png" alt="Project Preview" width="600">
-</p>
-
 
 ## Live Demo
-[View Live Demo](https://marius-bogdan.com/projects/one-page-responsive-app/)
+- **Explore the live version here:** [View Live Demo](https://marius-bogdan.com/projects/one-page-responsive-app/)
 
 ## Local Setup
 1. **Clone** the repository:
@@ -41,7 +41,7 @@ One Page Responsive Website is a responsive, single-page website template built 
 
 ## Author
 **Marius Bogdan**  
-[Portfolio Website](https://marius-bogdan.com/)
+[Personal portfolio](https://marius-bogdan.com/)
 
 Feel free to reach out for any questions or collaborations!
 
